@@ -1,2 +1,2 @@
 # TestCalc
-Unit Test for Calculator API
+Unit Tests for Calculator API
